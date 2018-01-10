@@ -22,6 +22,7 @@ public class DaoPatternDemo {
       obj1.createStudent(4, "fjk", 25);
       System.out.println("\n");
       obj1.display();
+      //test for git
      /* // studentDao.deleteStudent(student);
 
     //  for (Student stu : studentDao.getAllStudents()) {
